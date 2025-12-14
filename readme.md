@@ -33,9 +33,13 @@ npm start
 http://localhost:3000
  
 GET /math/soma?a=10&b=5
+
 GET /math/subtracao?a=10&b=5
+
 GET /math/multiplicacao?a=10&b=5
+
 GET /math/divisao?a=10&b=5
+
 
 
 
